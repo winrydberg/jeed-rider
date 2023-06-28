@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/AmazonEmberDisplay_Bd.ttf",
+      "sha1": "3eedcef08de0ff57a368fb8deea64fee41068b37"
+    },
+    {
+      "path": "src/assets/fonts/AmazonEmberDisplay_He.ttf",
+      "sha1": "b0a779298e8a5bf89cd2c05866184effb2787a58"
+    },
+    {
+      "path": "src/assets/fonts/AmazonEmberDisplay_Lt.ttf",
+      "sha1": "b6112d97a2416af6ae3ea1e984849a48d567e95f"
+    },
+    {
+      "path": "src/assets/fonts/AmazonEmberDisplay_Md.ttf",
+      "sha1": "f365529ba93e5c03a5b1ecc2da98f5f1dd8783ac"
+    },
+    {
+      "path": "src/assets/fonts/AmazonEmberDisplay_Rg.ttf",
+      "sha1": "8327f8fb9ef541b82eb6722a752ba384facac244"
+    },
+    {
+      "path": "src/assets/fonts/OFL.txt",
+      "sha1": "a053c4d0f104ef0da25e89e154cbb208b2423f1c"
+    }
+  ]
+}

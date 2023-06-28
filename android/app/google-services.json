@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "72803374135",
+    "project_id": "starsdelivery-7119a",
+    "storage_bucket": "starsdelivery-7119a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72803374135:android:a360ce64fcfb6f86a91bb2",
+        "android_client_info": {
+          "package_name": "com.digicode.starsexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72803374135-c3mufvr81e46387076v8pdbsc0chlghn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgbTrgd-NagApGjdRshz9Vzop-d8fYIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72803374135-c3mufvr81e46387076v8pdbsc0chlghn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72803374135:android:00c623dff6d0c971a91bb2",
+        "android_client_info": {
+          "package_name": "com.jeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72803374135-c3mufvr81e46387076v8pdbsc0chlghn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgbTrgd-NagApGjdRshz9Vzop-d8fYIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72803374135-c3mufvr81e46387076v8pdbsc0chlghn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
